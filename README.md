@@ -1,5 +1,7 @@
 # HashItOut Lens Expanded
 
+link to apk; https://drive.google.com/file/d/1zE30L3SExnf54WwqCIfSYdogmnQx1AdX/view?usp=drive_link
+
 Build-ready Android Studio project for a camera/import driven cipher and hidden-text scanner.
 
 ## Included in this drop
