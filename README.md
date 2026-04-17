@@ -1,5 +1,9 @@
 # HashItOut Lens Expanded
 
+# We want you to contribute!
+
+Please, help us improve. This is open source for a reason, and I would like to see this project become faster and stronger. There are brighter minds than mine out there, and I value and respect your time and thoughts. Let's work together! contact me at eric(at)rrs.works 
+
 link to apk; https://drive.google.com/file/d/1zE30L3SExnf54WwqCIfSYdogmnQx1AdX/view?usp=drive_link
 
 Build-ready Android Studio project for a camera/import driven cipher and hidden-text scanner.
